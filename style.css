@@ -1,0 +1,66 @@
+
+
+
+body{
+    text-align: center;
+    background-image: url(wallpaper.jpeg);
+    background-repeat: repeat;
+    color: rgb(249, 244, 244);
+    margin: 10px;
+   
+}
+
+.titulo{
+    padding: 25px;
+
+}
+
+h3{
+    padding: 25px;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
+
+.imagen{
+    padding: 25px;
+}
+
+.lista{
+    padding: 25px;
+    display: inline-block;
+    text-align: center;
+    
+
+}
+
+cite{
+    padding: 25px;
+}
+
+.pie{
+    padding: 25px;
+}
+
+b{
+    color:rgb(43, 226, 147);
+}
+
+.flex-container{
+    display: flex;
+    flex: ;
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 2px solid black;  
+}
+
+.flex-container div{
+    background-color: gainsboro;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    border: 2px solid black;
+}
